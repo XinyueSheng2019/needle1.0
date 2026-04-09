@@ -27,14 +27,42 @@ __pycache__/
 /needle_train/up_*/
 /needle_train/k_fold_*/
 /needle_train/__pycache__/
+/needle_train/*.txt
+/needle_train/*.output
 
 # Light-curve processing outputs
 /light_curve/photo_processing_output/
 /light_curve/photo_processing_output_new/
 /light_curve/__pycache__/
+/light_curve/*.json
+/light_curve/*.zip
+/light_curve/*.txt
+/light_curve/*.csv
+/light_curve/*.yaml
+/light_curve/*.yml
+/light_curve/*.xml
+/light_curve/*.html
+/light_curve/*.css
+/light_curve/*.js
+/light_curve/*.ts
+/light_curve/*.tsx
 
 # Image processing outputs
 /image/__pycache__/
 /image/bad_samples_0430/
 /image/image_preprocessing_output/
 /image/image_unmasked_output/
+/image/failed_obs.txt
+/image/*.output
+/image/*.zip
+/image/*.txt
+/image/*.csv
+/image/*.json
+/image/*.yaml
+/image/*.yml
+/image/*.xml
+/image/*.html
+/image/*.css
+/image/*.js
+/image/*.ts
+/image/*.tsx
